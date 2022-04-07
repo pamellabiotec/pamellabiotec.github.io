@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pâmella Araújo Balcaçar</title><link href="https://pamellabiotec.github.io/" rel="alternate"></link><link href="https://pamellabiotec.github.io/feeds/all.atom.xml" rel="self"></link><id>https://pamellabiotec.github.io/</id><updated>2022-03-26T07:00:00-04:00</updated><subtitle></subtitle><entry><title>Blog na escola</title><link href="https://pamellabiotec.github.io/2022/projeto-blog-na-escola.html" rel="alternate"></link><published>2022-03-26T07:00:00-04:00</published><updated>2022-03-26T07:00:00-04:00</updated><author><name>Pâmella Araújo Balcaçar</name></author><id>tag:pamellabiotec.github.io,2022-03-26:/2022/projeto-blog-na-escola.html</id><summary type="html">&lt;p&gt;Contextualização do projeto de ensino: Blog na escola&lt;/p&gt;</summary><content type="html">&lt;p&gt;O projeto de ensino encontra-se inserido no ambiente escolar integrando as disciplinas eletivas e o componente Projeto de vida do novo ensino médio. Nessa perspectiva terá como objeto de estudo o blog, sendo promotor de produção textual e divulgação científica, ainda contará com a difusão em mídias sociais. &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pâmella Araújo Balcaçar</title><link href="https://pamellabiotec.github.io/" rel="alternate"></link><link href="https://pamellabiotec.github.io/feeds/all.atom.xml" rel="self"></link><id>https://pamellabiotec.github.io/</id><updated>2022-04-07T19:00:00-04:00</updated><subtitle></subtitle><entry><title>Dia mundial da saúde</title><link href="https://pamellabiotec.github.io/2022/dia-mundial-da-saude.html" rel="alternate"></link><published>2022-04-07T19:00:00-04:00</published><updated>2022-04-07T19:00:00-04:00</updated><author><name>Pâmella Araújo Balcaçar</name></author><id>tag:pamellabiotec.github.io,2022-04-07:/2022/dia-mundial-da-saude.html</id><summary type="html">&lt;p&gt;07 de abril é o dia mundial da saúde&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="https://cfbio.gov.br/"&gt;&lt;img alt="CFBIO" src="/images/cfbio_001.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;No dia mundial da saúde, vamos conversar mais sobre uma profissão da área da saúde que é de Biólog@. Isso mesmo, Biólog@ é um profissional da saúde e pode atuar nas seguintes subáreas:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;Aconselhamento Genético
+Análises Citogenéticas
+Análises Citopatológicas
+Análises Clínicas*
+Análises de Histocompatibilidade
+Análises e Diagnósticos Biomoleculares
+Análises Histopatológicas
+Análises, Bioensaios e Testes em Animais
+Análises, Processos e Pesquisas em Banco de Leite Humano
+Análises, Processos e Pesquisas em Banco de Órgãos e Tecidos
+Análises, Processos e Pesquisas em Banco de Sangue e Hemoderivados
+Análises, Processos e Pesquisas em Banco de Sêmen, Óvulos e Embriões
+Bioética
+Controle de Vetores e Pragas
+Desenvolvimento, Produção e Comercialização de Materiais, Equipamentos e Kits Biológicos
+Gestão da Qualidade
+Gestão de Bancos de Células e Material Genético
+Perícia e Biologia Forense
+Reprodução Humana Assistida
+Saneamento Saúde Pública/Fiscalização Sanitária
+Saúde Pública/Vigilância Ambiental
+Saúde Pública/Vigilância Epidemiológica
+Saúde Pública/Vigilância Sanitária
+Terapia Gênica e Celular
+Treinamento e Ensino na Área de Saúde.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;E essa lista de subáreas não é fixa. Pode sofrer alterações, de inclusão de mais subáreas, por exemplo, Aconselhamento Genético é regulado pela Resolução do CFBio nº 520/ 2019 que dispõe sobre a atuação do Biólogo na área de Aconselhamento Genético e dá outras providências.&lt;/p&gt;
+&lt;p&gt;É válido lembrar que @s Biólog@s podem atuar também nas áreas de meio ambiente e biotecnologia.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Esta Resolução em nada altera o disposto nas Resoluções nº 12/93 e nº 10/2003.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="evento"></category><category term="saude"></category></entry><entry><title>Blog na escola</title><link href="https://pamellabiotec.github.io/2022/projeto-blog-na-escola.html" rel="alternate"></link><published>2022-03-26T07:00:00-04:00</published><updated>2022-03-26T07:00:00-04:00</updated><author><name>Pâmella Araújo Balcaçar</name></author><id>tag:pamellabiotec.github.io,2022-03-26:/2022/projeto-blog-na-escola.html</id><summary type="html">&lt;p&gt;Contextualização do projeto de ensino: Blog na escola&lt;/p&gt;</summary><content type="html">&lt;p&gt;O projeto de ensino encontra-se inserido no ambiente escolar integrando as disciplinas eletivas e o componente Projeto de vida do novo ensino médio. Nessa perspectiva terá como objeto de estudo o blog, sendo promotor de produção textual e divulgação científica, ainda contará com a difusão em mídias sociais. &lt;/p&gt;
 &lt;p&gt;E se dará por meio do arcabouço teórico como o paradigma da teoria de aprendizagem conectivista proposta por George Siemens (2005); Dillenbourg (1995) que conceitua os princípios da aprendizagem colaborativa; Pierri Lévy (2015) acerca da produção social da inteligência coletiva; Papert (1980, 1985, 1986, 2008), abordando os aspectos do construcionismo, no que se refere à relação entre homem e máquina e sua representatividade para aprendizagem; e ainda as contribuições teórica de pesquisa social proposta por Minayo (2011).&lt;/p&gt;
 &lt;p&gt;Sendo fundamentada pelas 2ª, 4ª, 5ª e 6ª Competências Gerais da Base Nacional Comum Curricular (BNCC): &lt;/p&gt;
 &lt;blockquote&gt;
